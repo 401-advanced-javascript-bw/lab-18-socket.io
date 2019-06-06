@@ -6,9 +6,8 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
-- [travis](http://xyz.com)
-- [back-end](http://xyz.com) (when applicable)
+- [submission PR](https://github.com/401-advanced-javascript-bw/lab-18-socket.io/pull/1)
+- [back-end](https://github.com/401-advanced-javascript-bw/lab-18-socket.io/tree/submission)
 
 #### Documentation
 
